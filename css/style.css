@@ -1,10 +1,12 @@
 .logoboolean {
     height: 100px;
     width: 200px;
-    margin-top: 50px;
+    
 }
 
 Header {
+    
+    width: 100%;
     height: 130px;
     background-position-x: 100px;
     background-position-y: -30px;
@@ -30,4 +32,25 @@ th {
 
 ul {
     padding-left: 15px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img .sezione-fotoarticolo {
+    width: 50%;
+}
+
+body {
+    margin: 0px;
+    
+}
+
+main {
+    margin: 8px;
+}
+
+footer {
+    margin: 8px;
 }
