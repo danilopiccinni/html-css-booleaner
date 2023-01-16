@@ -36,6 +36,8 @@ ul {
 
 h1 {
     font-size: 50px;
+    text-align: justify;
+    margin-bottom: 0px;
 }
 
 img .sezione-fotoarticolo {
@@ -53,4 +55,16 @@ main {
 
 footer {
     margin: 8px;
+}
+
+.info-articolo {
+    display: block;
+}
+
+.autore {
+    color: rgb(0, 208, 255);
+}
+
+.intestazione-articolo {
+    margin-bottom: 20px;
 }
