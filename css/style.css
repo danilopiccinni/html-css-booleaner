@@ -27,3 +27,7 @@ table {
 th {
     text-align: left;
 }
+
+ul {
+    padding-left: 15px;
+}
