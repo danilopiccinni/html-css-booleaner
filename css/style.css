@@ -23,7 +23,7 @@ Header {
 
 }
 
-.rigacolorata {
+.riga-colorata {
 
     background-color: rgb(156, 236, 243);
 
@@ -81,8 +81,17 @@ footer {
 
 .info-articolo {
 
+    color: gray;
     display: block;
 
+}
+
+#autore {
+    font-size: 20px;
+}
+
+.nome-autore {
+    color: rgb(26, 204, 235);
 }
 
 .autore {
@@ -116,5 +125,16 @@ footer {
 
 }
 
+h4 {
+    color: gray;
+}
+
+.foto-da-visualizzare {
+    width: 100%;
+  
+}
 
 
+.fonte-foto {
+    font-size: 100px;
+}
