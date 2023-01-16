@@ -138,3 +138,7 @@ h4 {
 .fonte-foto {
     font-size: 100px;
 }
+
+.evidenziato {
+    background-color: hwb(60 0% 0%);
+}
