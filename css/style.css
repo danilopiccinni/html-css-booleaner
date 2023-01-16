@@ -50,7 +50,7 @@ ul {
 h1 {
 
     font-size: 50px;
-    text-align: justify;
+    
     margin-bottom: 0px;
 
 }
@@ -62,7 +62,7 @@ img .sezione-fotoarticolo {
 }
 
 body {
-
+    text-align: justify;
     margin: 0px;
     
 }
