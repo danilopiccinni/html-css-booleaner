@@ -1,8 +1,29 @@
 .logoboolean {
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
 }
 
 Header {
+    height: 130px;
+    background-position-x: 100px;
+    background-position-y: -30px;
     background-image: url(../img/pattern.png);
+    background-color: rgb(0, 191, 255); 
+}
+
+.head {
+    background-color: rgb(26, 204, 235);
+}
+
+.rigacolorata {
+    background-color: rgb(156, 236, 243);
+}
+
+table {
+    border-spacing: 0px;
+}
+
+th {
+    text-align: left;
 }
